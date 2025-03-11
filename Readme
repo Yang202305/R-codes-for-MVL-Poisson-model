@@ -1,1 +1,3 @@
-This is R code for estimating MVL-Poisson Model in our paper 'Multicategory Purchase Behavior: Basket Choice, Shopping Frequency, and Promotional Analysis'
+This is R code and stata code for estimating MVL-Poisson Model in our paper 'Multicategory Purchase Behavior: Basket Choice, Shopping Frequency, and Promotional Analysis'
+The folder includes one multicategory-shopping dataset Nth.csv, in which t and h are time and consumer id, b is the basket id, bn represents the count of each basket b from each consumer h at each time t. 
+The dataset includes 100 consumers, 4 segments, 50 time periods, 5 categories.
